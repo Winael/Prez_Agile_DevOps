@@ -1,6 +1,23 @@
 # Peut-on parler de DevOps sans parler d'Agilité
 
-Je m'appelle Vincent et je ne suis pas DevOps. Alors je sais ce que vous vous dites : "M'enfin, cet homme n'est pas Devops, d'où est-ce qu'il vient parler d'un sujet qu'il ne connait pas, tu vas voir quel ROTI je vais lui mettre à celui-là :"
+## Introduction
+
+On entend souvent parler de DevOps dans les médias ces temps-ci. DevOps ne prendrait pas en compte l'aspect business, il a donc fallu inveter le concept de DevOps Business (sic), ou bien DevOps ne prenant pas en compte l'aspect sécurité. Il est donc urgent de parler de DevSecOps. Mais de quoi parle-t-on au juste ? Une chose est sûr dès que DevOps est abordé, jamais le sujet de l'Agilité ne l'est.
+
+Pire encore, personne ne s'entend sur ce qu'est vraiment DevOps.
+
+Est un titre ? Ingénieur DevOps... oui mais Dev quoi ? Frontend ? Backend ? BDD ? Fullsteak ? et Ops quoi ? NetOps ? SecOps ? Monitoring Ops ? Ops Infra ? Ops Appli ? 
+Est-ce des technologies ?
+Est-ce un workflow ?
+Ou est-ce comme me l'ont expliqué certains Agiliste un rôle de facilitateurs entre Dev et Ops ?
+
+Mais peut-on vraiment parler de DevOps sans parler d'Agilité ?
+
+## Présentation 
+
+C'est à cette question que je vais tenter de répondre.
+
+Donc, je m'appelle Vincent et je ne suis pas du tout Ingénieur DevOps. Alors je sais ce que vous vous dites : "M'enfin, cet homme n'est pas Devops, d'où est-ce qu'il vient parler d'un sujet qu'il ne connait pas, tu vas voir quel ROTI je vais lui mettre à celui-là :"
 
 Oui, je ne suis pas DevOps... Je suis Ingénieur Système Agile... ou ISA, le fameux mouton à 5 pattes que s'arrachent les ESN, puisque l'ISA bêle...
 
